@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Poppins-Black';
+  src: local('Poppins-Black'), url('./fonts/Poppins-Black.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Poppins-Bold';
+  src: local('Poppins-Bold') url('./fonts/Poppins-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Poppins-Regular';
+  src: local('Poppins-Regular') url('./fonts/Poppins-Regular.otf') format('opentype');
+}
